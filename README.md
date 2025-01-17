@@ -64,9 +64,3 @@ The dataset consists of medical diagnostic measurements and a binary outcome (`0
 | XGBoost              | **81%**       | **0.82**      |
 
 ---
-
-## **Requirements**
-
-Install the dependencies using the `requirements.txt` file:
-```bash
-pip install -r requirements.txt
